@@ -33,3 +33,8 @@
 var a = 1;
 console.log(a)
 ```
+
+百度网站是[这里是百度的链接](https://www.baidu.com)
+
+这里有![一张图片](1.png)
+
